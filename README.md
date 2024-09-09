@@ -30,7 +30,7 @@ The metrics analyzed were:
 - Command Line Interface (CLI) for System Management
 - PowerShell for Automation and Configuration Management
 - [NIST SP 800-53 Revision 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) for Security Controls
-- [NIST SP 800-61 Revision 2](https://www.nist.gov/privacy-framework/nist-sp-800-61) for Incident Handling Guidance
+- [NIST SP 800-61 Revision 2](https://csrc.nist.gov/pubs/sp/800/61/r2/final) for Incident Handling Guidance
 
 ## Architecture Before Hardening / Security Controls
 ![image](https://github.com/user-attachments/assets/d26c5ee9-a8ea-474f-80cf-0b64fd77a348)
