@@ -62,9 +62,9 @@ In the "AFTER" stage of this project, the environment was hardened, and security
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
 
-**Start Time:** 8/26/2024, 2:21:24.593 PM PST
+**Start Time:** 8/26/2024, 2:21:24.593 PM CDT
 
-**Stop Time:** 8/27/2024, 2:21:24.593 PM PST
+**Stop Time:** 8/27/2024, 2:21:24.593 PM CDT
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -83,9 +83,9 @@ After hardening the honeynet, the Network Security Groups blocked all traffic wi
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we applied security controls:
 
-**Start Time:** 8/28/2024, 2:33:27.078 PM PST
+**Start Time:** 8/28/2024, 2:33:27.078 PM CDT
 
-**Stop Time:**	8/29/2024, 2:33:27.078 PM PST
+**Stop Time:**	8/29/2024, 2:33:27.078 PM CDT
 
 | Metric                   | Count
 | ------------------------ | -----
